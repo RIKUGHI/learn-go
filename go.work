@@ -2,7 +2,8 @@ go 1.21.4
 
 use (
 	./basic
+	./learn-context
+	./goroutines
 	./standard_library
 	./unit-test
-	./goroutines
 )
