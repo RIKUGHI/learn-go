@@ -4,4 +4,5 @@ use (
 	./basic
 	./standard_library
 	./unit-test
+	./goroutines
 )
