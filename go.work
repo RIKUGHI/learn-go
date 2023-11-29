@@ -6,4 +6,5 @@ use (
 	./goroutines
 	./standard_library
 	./unit-test
+	./learn-database
 )
