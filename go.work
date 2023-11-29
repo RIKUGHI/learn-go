@@ -8,4 +8,5 @@ use (
 	./unit-test
 	./learn-database
 	./learn-embed
+	./learn-web
 )
