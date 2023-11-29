@@ -7,4 +7,5 @@ use (
 	./standard_library
 	./unit-test
 	./learn-database
+	./learn-embed
 )
