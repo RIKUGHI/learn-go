@@ -10,4 +10,5 @@ use (
 	./learn-embed
 	./learn-web
 	./learn-httprouter
+	./learn-json
 )
