@@ -11,11 +11,17 @@ import (
 
 func TemplateDataMap(writer http.ResponseWriter, request *http.Request) {
 	t := template.Must(template.ParseFiles("./templates/name.gohtml"))
+
 	t.ExecuteTemplate(writer, "name.gohtml", map[string]interface{}{
 		"Title": "Template Data Map",
 		"Name":  "Bambang",
 		"Address": map[string]interface{}{
 			"Street": "Jalan Belum Ada Lagi",
+		},
+		"Address2": struct {
+			Street string
+		}{
+			Street: "Jalan Belum Ada Lagi",
 		},
 	})
 }
