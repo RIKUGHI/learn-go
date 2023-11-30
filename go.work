@@ -9,4 +9,5 @@ use (
 	./learn-database
 	./learn-embed
 	./learn-web
+	./learn-httprouter
 )
