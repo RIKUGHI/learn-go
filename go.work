@@ -12,4 +12,5 @@ use (
 	./learn-httprouter
 	./learn-json
 	./restful-api
+	./learn-dependency
 )
