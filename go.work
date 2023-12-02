@@ -13,4 +13,5 @@ use (
 	./learn-json
 	./restful-api
 	./learn-dependency
+	./logging
 )
