@@ -17,4 +17,5 @@ use (
 	./generics
 	./learn-migrate
 	./learn-validation
+	./learn-viper
 )
