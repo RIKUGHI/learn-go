@@ -19,4 +19,5 @@ use (
 	./learn-validation
 	./learn-viper
 	./learn-fiber
+	./learn-gorm
 )
